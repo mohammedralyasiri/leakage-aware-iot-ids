@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the accompanying article."
+title: "Leakage-Aware Evaluation of Cross-Fitted CNN–XGBoost Stacking for IoT Intrusion Detection"
+authors:
+  - family-names: Jasim
+    given-names: Mohammed R.
+    affiliation: "Jabir Ibn Hayyan University for Medical and Pharmaceutical Sciences"
+version: 1.0.0
+date-released: 2026-11-10
+license: MIT
